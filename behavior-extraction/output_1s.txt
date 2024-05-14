@@ -1,0 +1,42 @@
+Xiaomi Robot Vacuum Cleaner User Manual Summary
+
+Welcome & Introduction:
+
+The Xiaomi Robot Vacuum Cleaner is a smart, path-planning robot vacuum equipped with a high precision laser distance sensor. It can real-time map out room layouts for efficient and thorough cleaning without human intervention.
+Users can monitor cleaning progress, schedule cleanings, and control the vacuum remotely via a mobile app.
+It aims to free users from the burden of floor cleaning, enhancing their quality of life.
+Product Features:
+
+Power Button: Short press to start cleaning; long press to turn on/off.
+Indicator Light: White (battery >50%), Yellow (battery 20%-50%), Red (battery <20%). Blinking indicates charging or starting up; rapid red flashing signals a fault.
+Return to Charge/Spot Cleaning Button: Short press to return to the charging dock; long press for spot cleaning.
+Accessories: Includes a charging dock, main brush cleaning tool, power cable, dustbin, filter, etc.
+Wi-Fi Indicator: Off (Wi-Fi not activated), slowly blinking (waiting for connection), fast blinking (connecting), solid (connected).
+Charging Dock: Ensure it's placed on a level floor with ample space around it for the vacuum to access.
+Installation and Use:
+
+Connect the power cable and place the charging dock against a wall with clear space around it for the vacuum to dock easily.
+Turn on the vacuum and charge it; the ring light indicates battery status.
+For Wi-Fi connectivity, reset Wi-Fi if necessary by pressing the designated buttons until you hear a voice prompt for reset, then connect using the mobile app.
+Start cleaning by pressing the power button or through the app once the vacuum is charged.
+Maintenance:
+
+Main Brush: Clean weekly and replace every 6-12 months.
+Dustbin and Filter: Clean weekly; replace the filter every 3 months. Note that the filter is not washable.
+Side Brush and Omni-directional Wheel: Clean monthly and replace the side brush every 3-6 months.
+Sensors and Charging Dock: Wipe clean monthly.
+Troubleshooting:
+
+The manual includes solutions for various error messages, such as blockages, stuck wheels, or charging issues. If problems persist, users are advised to contact Xiaomi customer service.
+Battery and Charging:
+
+The vacuum features a high-performance lithium-ion battery. To maintain battery performance, keep the vacuum charged regularly. If not in use for an extended period, charge at least every three months.
+Safety and Environmental Notes:
+
+Designed for indoor use only, avoid using in environments with liquids or extreme temperatures.
+Handle the embedded lithium-ion battery carefully and recycle appropriately.
+Laser safety conforms to IEC60825-1:2014 Class 1 standards, posing no hazardous radiation.
+Manufacturer Information:
+
+Produced by Beijing Stone Century Technology Ltd. (a Xiaomi Ecological Chain Enterprise) and commissioned by Xiaomi Communication Technology Co., Ltd.
+For service inquiries, visit Xiaomi's service website or call their customer service hotline.

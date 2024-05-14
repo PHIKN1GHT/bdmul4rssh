@@ -1,0 +1,29 @@
+
+The smart home device in question is a Xiaomi Mijia Sweeping and Mopping Robot 3C Enhanced Edition. Here's a summary of its key states, operations, and behaviors:
+
+States:
+Normal Operation: Indicated by a constantly on white light.
+Wi-Fi Offline: Indicated by a constantly on yellow light.
+Charging: A white breathing light indicates charging at high battery level, and a yellow breathing light indicates charging at low battery level.
+Exception/Resetting Wi-Fi: A yellow flashing light indicates an exception or the process of resetting Wi-Fi.
+Pause: During work, a short press pauses the operation; the light status changes accordingly.
+Do Not Disturb Mode: The device enters this mode after pausing or standing by for 10 minutes, indicated by the light turning off.
+Sleep/Off: No light is displayed.
+Operations:
+Power On/Off: Long press for 3 seconds.
+Start/Pause Cleaning: Short press the start button.
+Return to Charge: Short press the home button during pause or after cleaning.
+Wi-Fi Reset: Long press a specific button for 5 seconds, hear a beep, then long press again for 5 seconds until you hear a voice prompt indicating success.
+System Reset: Long press a button for 5 seconds, hear a beep, repeat the long press for another 5 seconds until the robot restarts, and all settings return to factory defaults.
+Behaviors:
+Charging: Must be done in a cool, dry place, and it's recommended to charge at least every 3 months to avoid battery damage.
+Cleaning Preparation: Remove obstacles and tidy wires on the floor before cleaning to prevent dragging.
+Water Tank and Mop Handling: Before mopping, fill the water tank with clean water only (no hot water or cleaning agents) to avoid damage. After mopping, empty and clean the tank and mop to prevent odors and mold.
+Sensor and Charging Contacts Maintenance: Clean sensors and charging contacts every 3 months with a soft cloth to ensure proper operation.
+Brush Maintenance: Clean and replace brushes according to the manual to ensure effective cleaning.
+Battery and Charging Base Maintenance: Do not disassemble or modify the battery or charging base. Use only the specified adapter model (BU15W200060P-CA) with the device.
+Additional Information:
+Not Suitable for Use: On non-floor surfaces, outdoors, in commercial or industrial environments, in temperatures above 35°C or below 0°C, or on wet surfaces.
+Wi-Fi Connectivity: Supports 2.4GHz networks only. For any connectivity issues, ensure the device is within the Wi-Fi signal range and reset the Wi-Fi settings if necessary.
+First Time Use: It's recommended to follow the device through its initial cleaning to remove any obstacles that may hinder its operation and to ensure accurate mapping. Use the app to set no-go zones to prevent the robot from entering certain areas.
+Remember, this device is designed for home use only and should not be used as a toy by children or pets. Always supervise the device during operation to ensure safety and prevent damage.

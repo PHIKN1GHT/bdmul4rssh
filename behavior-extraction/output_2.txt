@@ -1,0 +1,28 @@
+
+The 米家免洗扫拖机器人2 (Mi Home Self-Cleaning Sweeping and Mopping Robot 2) is designed for indoor, residential floor cleaning and should not be used outdoors, on non-floor surfaces, commercially, or industrially. It is not suitable for use by individuals with physical, sensory, or mental disabilities, or those lacking experience and knowledge, unless under supervision. The device must not be disassembled, and only the specified battery, power cord, and base model C101JZ should be used. It requires regular maintenance and specific conditions for operation to ensure safety and performance.
+
+States, Operations, and Behaviors:
+
+Installation and Setup: Requires initial charging on the base station. The base station should be placed in an open area with ample space around it. For first use, follow the app for quick mapping.
+
+Operation Modes: Can be operated via the Mi Home app for various cleaning modes, including sweeping and mopping. The device automatically returns to the base station for cloth cleaning and battery charging.
+
+Battery and Charging: Features an auto-return to the charging base when the battery is low. It uses a built-in lithium-ion battery and should be charged at least every 3 months to avoid damage.
+
+Cleaning and Maintenance: Dustbins, filters, and brushes require regular cleaning to maintain efficiency. The water tank should not be filled with hot water to avoid deformation.
+
+Safety Lock (Child Lock): Can be activated to prevent unintended use.
+
+Wi-Fi and App Connectivity: Supports 2.4GHz Wi-Fi networks for app connectivity, providing features like virtual walls/no-go zones, scheduled cleaning, and cleaning mode selection.
+
+Troubleshooting: Includes behavior like auto-return for charging when low on battery, pausing, and resuming cleaning. The device can enter sleep mode when inactive.
+
+Maintenance Warnings: Warns against using third-party batteries, disassembling the device, using it on carpets in mopping mode, and exposing it to temperatures outside 0°C to 40°C or wet conditions.
+
+Accessories and Parts: Includes a main brush, side brush, dustbin, water tank, and mopping module. Parts like the main brush, side brush, and filters require regular cleaning and periodic replacement.
+
+Environmental and Health Safety: Contains information on the proper disposal and recycling of the battery and device to minimize environmental impact.
+
+Warranty and Support: Offers a 2-year warranty for the main unit, a 1-year warranty for the battery, and a 2-year warranty for accessories like the power cord and base station. Non-warranty conditions include damage from unauthorized repairs, misuse, or accidents.
+
+For optimal performance and safety, users are advised to follow the instructions and maintenance guidelines provided in the manual carefully.
